@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=layer_commander
+X-Python-2-Compatible=false
+X-Krita-Manual=Manual.html
+Name=Layer Commander
+Comment=Control layers using commands in a text box
